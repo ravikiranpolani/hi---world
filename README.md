@@ -1,6 +1,8 @@
-# hi---world
-this rep is created for learning purpose
+# HELLO -WORLD 
+THIS REPOSITORY IS CREATED FOR LEARINING PURPOSE
 
 Hello world,
 
-I  have created a respository, I have created an branch, and I want branch to be merged into master.  
+Created a 
+* Repository(MASTER) 
+* Create a Branch
